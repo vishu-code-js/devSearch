@@ -1,1 +1,29 @@
-node_modules
+# macOS system files
+.DS_Store
+
+# Shell history
+.zshrc
+.bash_history
+.lesshst
+
+# Node.js
+node_modules/
+npm-debug.log*
+.env
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Others
+.idea/
+*.swp
